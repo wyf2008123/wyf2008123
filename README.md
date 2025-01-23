@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://github.com/wyf2008123"><img src="https://img.shields.io/badge/GitHub-wyf20081232-blue?logo=github" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username==wyf2008123&abbreviated=true&color=yellow" />
+
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
