@@ -1,4 +1,4 @@
-来自中国，08今年16，爱好写代码。
+
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 
