@@ -15,17 +15,6 @@
 
 
 
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username==wyf2008123&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username==wyf2008123&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
-</p>
- 
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
