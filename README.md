@@ -18,7 +18,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/wyf2008123"><img src="https://img.shields.io/badge/GitHub-wyf20081232-blue?logo=github" />
+<a href="https://github.com/wyf2008123"><img src="https://img.shields.io/badge/GitHub-wyf2008123-blue?logo=github" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <a href="https://space.bilibili.com/1635375831?spm_id_from=333.337.0.0"><img src="https://img.shields.io/badge/不知名的云夜-pink?logo=bilibili" /></a>
 </p>
